@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRealityAssignment.Plugins", "VirtualRealityAssignment.Plugins.csproj", "{08A12EFA-73DF-63BD-9792-E2784C2C00CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRealityAssignment", "VirtualRealityAssignment.csproj", "{C7723E7D-6B8C-F1DB-90A9-068BF19F12DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRealityAssignment.Editor.Plugins", "VirtualRealityAssignment.Editor.Plugins.csproj", "{640066BB-940E-C175-082F-1C33ACAAD93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A12EFA-73DF-63BD-9792-E2784C2C00CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A12EFA-73DF-63BD-9792-E2784C2C00CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A12EFA-73DF-63BD-9792-E2784C2C00CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A12EFA-73DF-63BD-9792-E2784C2C00CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7723E7D-6B8C-F1DB-90A9-068BF19F12DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7723E7D-6B8C-F1DB-90A9-068BF19F12DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7723E7D-6B8C-F1DB-90A9-068BF19F12DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7723E7D-6B8C-F1DB-90A9-068BF19F12DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640066BB-940E-C175-082F-1C33ACAAD93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640066BB-940E-C175-082F-1C33ACAAD93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640066BB-940E-C175-082F-1C33ACAAD93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640066BB-940E-C175-082F-1C33ACAAD93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
